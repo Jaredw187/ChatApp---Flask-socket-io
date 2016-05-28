@@ -1,0 +1,67 @@
+.window {
+    text-align: justify;
+    background: url("/static/back4.png");
+    height: 100%;
+}
+ol{
+    text-align: center;
+    padding: 0;
+}
+ul{
+    padding: 0;
+}
+h2{
+    color: black;
+}
+h3{
+    color: black;
+}
+#formandbuttons{
+    text-align: center;
+}
+#theList{
+    text-align: center;
+    background: url("/static/back3.png");
+    width : 19%;
+    border-radius: 25px;
+    padding : 0;
+    margin : 0;
+    display : inline-block;
+    border: hidden
+}
+
+#messages{
+    text-align: justify;
+    padding: 5px;
+}
+
+#theMessages {
+    text-align: center;
+    background: url("/static/back3.png");
+    border-radius: 25px;
+    width: 70%;
+    margin: 10px;
+    display: inline-block;
+    border: hidden
+}
+#title{
+    text-align: center;
+    background: url("/static/back3.png");
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 25px;
+
+}
+#indexInfo{
+    text-align: center;
+    background: url("/static/back3.png");
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 25px;
+}
+.indexwindow {
+    text-align: justify;
+    background: url("/static/back4.png");
+    height: 100%;
+}
+

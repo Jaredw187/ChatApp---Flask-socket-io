@@ -1,0 +1,16 @@
+<script src="https://cdn.jsdelivr.net/socket.io-client/1.3.2/socket.io.min.js"></script>
+<link rel="stylesheet" href="/static/styles.css">
+
+<main class="indexwindow" >
+    <br> <br> <br>
+    <div id="indexInfo">
+        <h1>Welcome to the Chat app!</h1>
+        <h3>The worst way to communicate with friends. </h3>
+        <form class="new_chat pure-form" action="/new-chat" method="POST">
+            <label>Enter Topic:</label>
+            <input type="text" name="chat_topic">
+            <button type='submit' class="chat_submit pure-button">Next</button> <br> <br>
+        </form>
+    </div>
+</main>
+
